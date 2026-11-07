@@ -1,6 +1,6 @@
 cask "dunlin@beta" do
-  version "0.1.0-beta.8"
-  sha256 "7e4acbf231701c2de41d2164e8e5a58dcb23272793638b53acc83663ebb4369c"
+  version "0.1.0-beta.10"
+  sha256 "9b056b8c806d3ff78728b524f28d27e7cb2087c98cca8459efe2b2fc528af058"
 
   url "https://github.com/corapoid/dunlin/releases/download/v#{version}/Dunlin-#{version}-macos-arm64.dmg"
   name "Dunlin Beta"
